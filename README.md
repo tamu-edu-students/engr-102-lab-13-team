@@ -28,7 +28,7 @@ After your team decides on a game, start thinking about how your program will wo
 
 
 ## Writing your code
-**After** your team develops a plan for your game, divide up the workload among all members so that each person can write one portion of the program on their own. If you planned your program well in the planning stage, each portion can be written and tested individually. Remember, you should have written test cases before you start to write code and use the pyramid style of code development. *You may use AI tools to complete the coding portion of this assignment.* Your hierarchy, descriptions, and test cases (planning document) as well as your reflection below must be written by you, in your own words.
+**After** your team develops a plan for your game, divide up the workload among all members so that each person can write one portion of the program on their own. If you planned your program well in the planning stage, each portion can be written and tested individually. Remember, you should have written test cases before you start to write code and use the pyramid style of code development. *You may use AI tools to complete the coding portion of this assignment.* **Your hierarchy, descriptions, and test cases (planning document) as well as your reflection below must be written by you, in your own words, without AI tools.**
 
 After each team member has written their part, combine the code into one file named `fun_game.py`. As a team, work together to complete the final bits of code and testing needed to debug your program. When you are done, have each team member independently verify that the program works as desired.
 
@@ -44,7 +44,7 @@ Create a document named `reflection_yourname.pdf` and answer the following quest
 4.	Briefly describe how you used AI tools to complete your program. In what ways did AI tools help or hinder your progress?
 5.	Briefly describe the thing(s) you learned on your own, beyond what was covered in the lectures. How did you incorporate them into your program?
 6.	If you had more time to work on your program, what additional features would you want to add? Is there anything about your submitted program you would change?
-7.	What was the most difficult part of this assignment? Please explain.
+7.	What was the most difficult part of this assignment? Please explain what made it difficult for you.
 8.	Estimate the portion of the assignment completed by each member of your team (yourself included). Please explain any significant workload imbalances and give a brief summary of who did what. For this question it’s ok to make a bulleted list instead of writing complete sentences. Example:
     - Amari: 25% - completed hierarchy and pdf document, programmed instructions function, helped with debugging
     - Bailey: 35% - really enjoyed working on the project and took over, created list of functions and variables used, created test cases, coded almost half of it, put code together and debugged it
@@ -61,9 +61,9 @@ Create a document named `reflection_yourname.pdf` and answer the following quest
 
 4. **For the reflection, are you really going to read everyone's submission?** Yes!
 
-5. **You want me to program an entire game?!** Well, yes, but you can use AI tools to help you out. The point of this assignment is to use your design skills and practice coding with everything we've learned in class. Plus you will end up with something fun to play over the break. Your game doesn't have to be perfect, but it should demonstrate everything you've learned this semester. Be creative! Have fun!
+5. **You want me to program an entire game?!** Well, yes, but you can use AI tools to help you out with the coding. The point of this assignment is to use your design skills and incorporate everything we've learned in class. Plus you will end up with something fun to play over the break. Your game doesn't have to be perfect, but it should demonstrate everything you've learned this semester. Be creative! Have fun!
 
-6. **Wait, we get to use AI tools?!** Yes... but only for the coding portion of the assignment. Your design plan and reflection must be written by you, in your own words.
+6. **Wait, we get to use AI tools?!** Yes... but only for the coding portion of the assignment. Your design plan and reflection must be written by you, in your own words, WITHOUT AI tools.
 
 7. **Can I program a different game or do I have to choose one of those listed in the pdf?** If you want to program a different game, talk to your instructor during class.
 
