@@ -10,7 +10,7 @@ There are several deliverables for this combination team and individual assignme
 ## Planning your program
 Engineers today are expected to maintain a combination of technical problem-solving capabilities, content literacy, and societal skills of communication, creativity, and collaboration[^1]. This lab is meant to improve your creativity skills while also working on your technical problem-solving capabilities within the framework of a programming project. Your team is first tasked with deciding on a project idea – as a team you will create a program for users (humans) to play one of the following games:
 - [Cambio](https://cambiocardgame.com/) or [one of it's variants](https://en.wikipedia.org/wiki/Kille_(card_game))
-- [Golf (the card game)](https://en.wikipedia.org/wiki/Golf_(card_game)) or one of it's variants
+- [Golf (the card game)](https://en.wikipedia.org/wiki/Golf_(card_game)) or one of it's variants like [Play Nine](https://playnine.com/pages/how-to-play)
 
 Regardless of which game you choose, your program must meet a set of minimum requirements, defined below. At a **minimum**, your program is required to do the following:
 - Display the rules of the game and instructions for the user
